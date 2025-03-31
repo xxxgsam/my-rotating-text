@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/my-rotating-text/static/css/main.b451ff26.css",
-    "main.js": "/my-rotating-text/static/js/main.3e90166d.js",
+    "main.js": "/my-rotating-text/static/js/main.00568b85.js",
     "static/js/453.efed1e46.chunk.js": "/my-rotating-text/static/js/453.efed1e46.chunk.js",
     "index.html": "/my-rotating-text/index.html",
     "main.b451ff26.css.map": "/my-rotating-text/static/css/main.b451ff26.css.map",
-    "main.3e90166d.js.map": "/my-rotating-text/static/js/main.3e90166d.js.map",
+    "main.00568b85.js.map": "/my-rotating-text/static/js/main.00568b85.js.map",
     "453.efed1e46.chunk.js.map": "/my-rotating-text/static/js/453.efed1e46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b451ff26.css",
-    "static/js/main.3e90166d.js"
+    "static/js/main.00568b85.js"
   ]
 }
