@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-rotating-text/static/css/main.90046ea5.css",
+    "main.js": "/my-rotating-text/static/js/main.b1a5e439.js",
+    "static/js/453.efed1e46.chunk.js": "/my-rotating-text/static/js/453.efed1e46.chunk.js",
+    "index.html": "/my-rotating-text/index.html",
+    "main.90046ea5.css.map": "/my-rotating-text/static/css/main.90046ea5.css.map",
+    "main.b1a5e439.js.map": "/my-rotating-text/static/js/main.b1a5e439.js.map",
+    "453.efed1e46.chunk.js.map": "/my-rotating-text/static/js/453.efed1e46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90046ea5.css",
+    "static/js/main.b1a5e439.js"
+  ]
+}
